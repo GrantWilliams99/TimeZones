@@ -110,9 +110,6 @@ def convertTime(listTimeZones):
         if newHour < 0:
             newHour += 24
             day = "Yesterday"
-        #elif newHour == 24:
-         #   newHour = 12
-          #  day = "Tomorrow"
         elif newHour > 23:
             newHour -= 24
             day = "Tomorrow"
