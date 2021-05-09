@@ -1,5 +1,5 @@
 """
-Date and Time
+Time Zone Converter
 
 This program will allow the user to convert a date and a time
 to another time zone.
