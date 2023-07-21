@@ -8,8 +8,6 @@ This program is a simple time zone converter. The user will be able to interact 
 
 I wrote this software in order to practice using the Python programming language. I made a simple class that stores the idea of Time in hours, minutes, and seconds, and it is able to display the time in both 12- and 24-hour formats. It utilizes functions, loops, expressions, reading and writing to files, and other basic aspects of Python.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
 Here's a link to a demo of my program: [Software Demo Video](https://youtu.be/IxjR7FRn6eI)
 
 # Development Environment
